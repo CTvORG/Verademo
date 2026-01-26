@@ -65,4 +65,4 @@ On the first environment deployment, a script will automatically setup the datab
 
 See the `docs` folder
 
-# force scans 1
+# force scans 3

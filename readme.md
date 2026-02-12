@@ -60,10 +60,8 @@ Verademo will also run out-of-the-box in AWS. Simply upload the `target/verademo
 
 On the first environment deployment, a script will automatically setup the database. Subsequent application re-deploys (without environment re-deploy), or application server restarts will not alter the database.
 
-Force Scan 2
-
 ## Exploitation Demos
 
 See the `docs` folder
 
-# force scans 2
+# force scans 3
